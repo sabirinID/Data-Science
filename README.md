@@ -1,5 +1,4 @@
 # sabirin
-My personal repository
 
 • 👋 Hi, I’m @sabirinID 
 
